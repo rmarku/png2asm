@@ -21,13 +21,13 @@ to assembly like this:
 nave:
     .xword 32 	// width
     .xword 15 	// height
-    .byte 0x00	// R
-    .byte 0x00	// G
     .byte 0x00	// B
-    .byte 0x00	// A
-    .byte 0x00	// R
     .byte 0x00	// G
-    .byte 0x00	// B
-    .byte 0x00	// A
     .byte 0x00	// R
+    .byte 0x00	// A
+    .byte 0x00	// B
+    .byte 0x00	// G
+    .byte 0x00	// R
+    .byte 0x00	// A
+    .byte 0x00	// B
 ```
