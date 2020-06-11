@@ -6,7 +6,7 @@ From a png like this:
 
 ![](nave.png)
 
-invoquing 
+invoking
 
 ```shell script
 png2asm nave.png nave.s
